@@ -1,0 +1,29 @@
+body {
+	font-family: "comic Sans Ms; 
+}
+
+h1 {
+	color: slateblue;
+	font-size: 50px;
+	width:100%; 
+	z-index: 2;
+	background-color: lightgray;
+	border:black;
+}
+style {
+ tr:nth-child(even){
+            background-color: #c9c9c9;
+        }
+        tr:nth-child(odd){
+            background-color: #dcdcdc;
+        }
+        th {
+            background-color: darkred;
+        }
+        table, th, td {
+            border: 1px black solid;
+            border-collapse: collapse;
+        }
+        table {
+            width: 50%
+}
